@@ -17,7 +17,6 @@
     display: flex;
     flex: 1;
     align-items: center;
-    /* border-radius: 35px; */
 }
 .header__searchInput{
     height: 12px;
