@@ -1,7 +1,7 @@
 import { Satellite } from "@material-ui/icons";
 
 export const initialState = {
-    basket: [],
+    basket: [11],
     user: null
 }
 

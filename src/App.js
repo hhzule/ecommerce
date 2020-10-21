@@ -11,7 +11,7 @@ import Payment from './Components/Payment';
 import { loadStripe } from '@stripe/stripe-js';
 import { Elements } from '@stripe/react-stripe-js';
 
-const promise = loadStripe('key')
+const promise = loadStripe('pk_test_51HeigzG83i8vZF9C7gsy6l9NfW6OrELVBrATefoEwIonx1LO9qSBTyQl6OL9GIsqz4jLG9vMdOhSjLXQPyqoRaG200k7ylR3bW')
 
 function App() {
 
